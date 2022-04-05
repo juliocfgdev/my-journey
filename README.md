@@ -2,7 +2,7 @@
 ## Descrição 
 Aplicação de Diário utilizando funcionalidades CRUD
 
-**Importante:** A Versão Live irá demonstrar as requests concluídas porém não irão alterar a página devido ao uso de uma FAKE API, sua funcionalidade é completa em um servidor local e pode adicionada à um backend.
+**Importante:** A Versão Live irá demonstrar as requests concluídas porém não irão alterar a página devido ao uso de uma FAKE API, sua funcionalidade é completa em um servidor local e pode ser adicionada à um backend.
 ### Tecnologias Usadas:
 * HTML5
 * CSS3 + Bootstrap + Font Awesome
